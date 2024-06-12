@@ -1,0 +1,22 @@
+<cmath>;
+Matematik işlemleri.
+
+-ceil(): Girilen sayıdan büyük en küçük sayıyı yazdırır.
+-sinh(): Radyan cinsinden girilen sayıyı dereceye çevirir.(tanh(), cosh(), coth()...)
+-floor(): Girilen sayıdan küçük en büyük sayıyı yazdırır.
+-fmod(): Bölüm işleminde kalanı hesaplar.
+-round(): Girilen sayıyı en yakın sayıya yuvarlar.
+-modf(): Ondalık sayıları tam ve kesirli kısım olarak böler( kesirli kısım = modf(sayı, tam kısım))
+-sqrt(): Girilen sayının kare kökünü alır.
+-cbrt(): Girilen sayının küp kökünü alır.
+-hypot(): Hipotenüs hesaplar.(hypot(a,b))
+-fabs(): Girilen değerin mutlak dğerini yazdırır.
+-fma(): (fma(x, y, z)) x*y+z.
+-fmin(): Girilen iki sayıdan en küçüğünü yazdırır.
+-copysign(): Girilen iki sayıdan birincisinin büyüklüğü ile ikincisinin işaretini çarpar.
+-fdim(): Girilen iki sayının mutlak farkını yazdırır.(birinci sayı ikinciden küçükse "0" değerini verir)
+
+<cstdlib>;
+Bu başlık, dinamik bellek yönetimi, rasgele sayı üretimi, çevre ile iletişim, tamsayı aritmetiği, arama, sıralama ve dönüştürme dahil olmak üzere çeşitli genel amaçlı işlevleri tanımlar.
+
+-

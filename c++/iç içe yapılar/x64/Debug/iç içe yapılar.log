@@ -1,0 +1,4 @@
+﻿  Kaynak.cpp
+C:\Users\Admin\Desktop\c++\iç içe yapılar\Kaynak.cpp(42,12): error C2065: 'ptr': bildirimi yapılmamış tanımlayıcı
+C:\Users\Admin\Desktop\c++\iç içe yapılar\Kaynak.cpp(44,10): error C2065: 'ptr': bildirimi yapılmamış tanımlayıcı
+C:\Users\Admin\Desktop\c++\iç içe yapılar\Kaynak.cpp(45,10): error C2065: 'ptr': bildirimi yapılmamış tanımlayıcı
